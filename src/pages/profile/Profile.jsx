@@ -4,7 +4,7 @@ import "./Profile.scss";
 const Profile = () => {
   return (
     <div>
-      
+      profile
     </div>
   )
 }
